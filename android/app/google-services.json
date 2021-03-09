@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168657685631",
+    "project_id": "logindemo-cadd8",
+    "storage_bucket": "logindemo-cadd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168657685631:android:83de44e1873d2fae07834a",
+        "android_client_info": {
+          "package_name": "com.example.google_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168657685631-seiq6c81ivkcnb9gpnmd0glovst2nmmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-hCBCxPCEQC2ctPIu-EvJ6Dwx8E4jsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168657685631-seiq6c81ivkcnb9gpnmd0glovst2nmmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
